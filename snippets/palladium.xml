@@ -46,6 +46,7 @@
   <project path="device/qcom/sepolicy-legacy-um" name="platform_device_qcom_sepolicy" revision="11-legacy-um" remote="palladium" />
 
   <!-- External -->
+  <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="palladium" />
   <project path="external/gptfdisk" name="platform_external_gptfdisk" remote="palladium" />
   <project path="external/selinux" name="platform_external_selinux" remote="palladium" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="palladium" />
