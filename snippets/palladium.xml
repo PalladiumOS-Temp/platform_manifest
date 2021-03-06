@@ -66,6 +66,7 @@
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="palladium" />
 
   <!-- Packages -->
+  <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="palladium" />
   <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="palladium" />
   <project path="packages/apps/PalladiumLauncher" name="platform_packages_apps_PalladiumLauncher" remote="palladium" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="palladium" />
