@@ -51,7 +51,7 @@
   <project path="external/gptfdisk" name="platform_external_gptfdisk" remote="palladium" />
   <project path="external/selinux" name="platform_external_selinux" remote="palladium" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="palladium" />
-  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="palladium-gitlab" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="palladium-gitlab" />
   <project path="external/airbnb-lottie" name="platform_external_airbnb-lottie" remote="palladium" />
   <project path="external/asus/stitchimage" name="platform_external_asus_stitchimage" remote="palladium" />
 
@@ -80,6 +80,7 @@
   <project path="packages/apps/Snap" name="platform_packages_apps_Snap" remote="palladium" />
   <project path="packages/apps/SimpleDeviceConfig" name="platform_packages_apps_SimpleDeviceConfig" remote="palladium" />
   <project path="packages/apps/Atomichub" name="platform_packages_apps_AtomicHub" remote="palladium" />
+  <project path="packages/apps/FaceUnlockService" name="platform_packages_apps_FaceUnlockService" remote="palladium" />
 
   <!-- System -->
   <project path="system/core" name="platform_system_core" remote="palladium" />
