@@ -15,6 +15,10 @@
           fetch="https://gitlab.com/palladiumos"
           revision="11" />
 
+  <remote name="palladium-devices"
+          fetch="https://github.com/PalladiumOS-Devices"
+          revision="11" />
+
   <!-- Rootdir -->
   <project path="bionic" name="platform_bionic" remote="palladium" />
   <project path="lineage-sdk" name="platform_lineage-sdk" remote="palladium" />
