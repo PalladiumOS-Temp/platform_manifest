@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="palladium"
-           fetch="ssh://git@github.com/Palladium-OS" 
+           fetch="https://github.com/Palladium-OS" 
            revision="11" />
 
     <remote  name="github"
