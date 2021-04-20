@@ -98,5 +98,6 @@
   <!-- Vendor -->
   <project path="vendor/PalladiumFragments" name="platform_vendor_PalladiumFragments" remote="palladium" />
   <project path="vendor/palladium" name="platform_vendor_palladium" remote="palladium" />
+   <project path="vendor/opstuff" name="platform_vendor_opstuff" remote="palladium" />
   <project path="vendor/gapps" name="vendor_gapps" remote="palladium-gitlab" clone-depth="1" />
 </manifest>
