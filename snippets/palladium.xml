@@ -70,6 +70,7 @@
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="palladium" />
 
   <!-- Packages -->
+  <project path="packages/apps/CustomDoze" name="platform_packages_apps_CustomDoze" remote="palladium" />
   <project path="packages/apps/Dialer" name="platform_packages_apps_Dialer" remote="palladium" />
   <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="palladium" />
   <project path="packages/apps/PalladiumLauncher" name="platform_packages_apps_PalladiumLauncher" remote="palladium" />
@@ -98,6 +99,7 @@
   <!-- Vendor -->
   <project path="vendor/PalladiumFragments" name="platform_vendor_PalladiumFragments" remote="palladium" />
   <project path="vendor/palladium" name="platform_vendor_palladium" remote="palladium" />
-   <project path="vendor/opstuff" name="platform_vendor_opstuff" remote="palladium" />
+  <project path="vendor/support" name="platform_vendor_support" remote="palladium" />
+  <project path="vendor/opstuff" name="platform_vendor_opstuff" remote="palladium" />
   <project path="vendor/gapps" name="vendor_gapps" remote="palladium-gitlab" clone-depth="1" />
 </manifest>
