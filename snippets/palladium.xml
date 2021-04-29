@@ -64,6 +64,8 @@
   <project path="frameworks/native" name="platform_frameworks_native" remote="palladium" />
   <project path="frameworks/av" name="platform_frameworks_av" remote="palladium" />
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="palladium" />
+  <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="palladium" />
+  <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="palladium" />
 
   <!-- Hardware -->
   <project path="hardware/lineage/interfaces" name="platform_hardware_lineage_interfaces" remote="palladium" />
